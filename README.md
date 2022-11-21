@@ -10,4 +10,4 @@ main()
   printf("Hello C");
 }
 ```
-我的博客[点我跳转](https://my.sct.world")
+我的博客[点我跳转]("https://my.sct.world")
